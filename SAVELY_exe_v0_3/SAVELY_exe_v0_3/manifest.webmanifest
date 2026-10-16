@@ -1,8 +1,0 @@
-{
-  "name": "SAVELY.exe",
-  "short_name": "SAVELY",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#080b10",
-  "theme_color": "#080b10"
-}
