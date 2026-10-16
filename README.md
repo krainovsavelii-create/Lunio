@@ -1,2 +1,0 @@
-# Lunio
-Personal progress dashboard
